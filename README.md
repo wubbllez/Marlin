@@ -1,5 +1,5 @@
 # Marlin 3D Printer Firmware For Q3d OneUp And TwoUp
-<img align="right" src="Documentation/Logo/Q%Logo.gif" />
+<img align="right" src="Documentation/Logo/Q%20Logo.gif" />
 
   * [Configuration & Compilation](/Documentation/Compilation.md)
   * Supported
