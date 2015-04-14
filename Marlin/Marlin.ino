@@ -3,6 +3,11 @@
 /*
     Reprap firmware based on Sprinter and grbl.
  Copyright (C) 2011 Camiel Gubbels / Erik van der Zalm
+ 
+ Modifyed by Stefi H Under Q3d
+ 
+ This firmware is forked from the official marlin github for use on Q3d OneUp and TwoUp printers
+
 
  This program is free software: you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by
@@ -17,7 +22,6 @@
  You should have received a copy of the GNU General Public License
  along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
-
 /*
  This firmware is a mashup between Sprinter and grbl.
   (https://github.com/kliment/Sprinter)
