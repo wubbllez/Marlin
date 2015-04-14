@@ -1,5 +1,5 @@
-# Marlin 3D Printer Firmware
-<img align="right" src="Documentation/Logo/Marlin%20Logo%20GitHub.png" />
+# Marlin 3D Printer Firmware For Q3d OneUp And TwoUp
+<img align="right" src="Documentation/Logo/Q%Logo.gif" />
 
   * [Configuration & Compilation](/Documentation/Compilation.md)
   * Supported
@@ -14,11 +14,11 @@
     * [Mesh Bed Leveling](/Documentation/MeshBedLeveling.md)
 
 ##### [RepRap.org Wiki Page](http://reprap.org/wiki/Marlin)
+##### [Q3d Website] (http://www.q3dprinter.com)
 
 ## Quick Information
 
-This is a firmware for reprap single-processor electronics setups.
-It also works on the Ultimaker PCB. It supports printing from SD card+Folders and look-ahead trajectory planning.
+This is a firmware for Q3d OneUp and TwoUp printers.
 This firmware is a mashup between [Sprinter](https://github.com/kliment/Sprinter), [grbl](https://github.com/simen/grbl), and many original parts.
 
 ## Current Status: Bug Fixing
@@ -31,7 +31,8 @@ We are actively looking for testers. So please try the current development versi
 
 ## Contact
 
-__Google Hangout:__ <a href="https://plus.google.com/hangouts/_/g2wp5duzb2y6ahikg6tmwao3kua" target="_blank">Hangout</a>
+__Official Marlin Google Hangout:__ <a href="https://plus.google.com/hangouts/_/g2wp5duzb2y6ahikg6tmwao3kua" target="_blank">Hangout</a>
+__Q3d support__ Developer@q3dprinter.com
 
 ## Credits
 
@@ -50,9 +51,9 @@ More features have been added by:
   - Bradley Feldman,
   - and others...
 
+Edited for use on Q3d OneUp and TwoUp printers by:
+  - Stefi H
 ## License
 
 Marlin is published under the [GPL license](/Documentation/COPYING.md) because I believe in open development.
 Please do not use this code in products (3D printers, CNC etc) that are closed source or are crippled by a patent.
-
-[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=ErikZalm&url=https://github.com/MarlinFirmware/Marlin&title=Marlin&language=&tags=github&category=software)
