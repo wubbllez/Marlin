@@ -18,8 +18,7 @@
 
 ## Quick Information
 
-This is a firmware for Q3d OneUp and TwoUp printers.
-This firmware is a mashup between [Sprinter](https://github.com/kliment/Sprinter), [grbl](https://github.com/simen/grbl), and many original parts.
+This is a firmware for Q3d OneUp and TwoUp printers, and is a mashup between [Sprinter](https://github.com/kliment/Sprinter), [grbl](https://github.com/simen/grbl), and many original parts.
 
 ## Current Status: Bug Fixing
 
@@ -53,6 +52,7 @@ More features have been added by:
 
 Edited for use on Q3d OneUp and TwoUp printers by:
   - Stefi H
+  
 ## License
 
 Marlin is published under the [GPL license](/Documentation/COPYING.md) because I believe in open development.
